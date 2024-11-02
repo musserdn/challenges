@@ -222,15 +222,45 @@ main {
 
 /* portfolio project images */
 /* TODO: Add portfolio project images here using background images*/
-.run-buddy {}
+/* Close-up Photo of Woman Tying Her white Sneakers on Running. Track Public Domain. Pexels.  */
+.run-buddy {
+  background-image: url("../images/run.jpg");
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+}
 
-.led-wall {}
+/*Structure Light LED Movement. Photo by Andrea Piacquadio. https://www.pexels.com/photo/close-up-photo-of-woman-tying-her-white-sneakers-on-running-track-3763869/. Accessed November 2, 2024 */
+.led-wall {
+  background-image: url("../images/ledwall.jpg");
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+}
 
-.react-calc {}
 
-.pastel-puzzles {}
+/* Closeup of Cellphone Calculator. Public Domain. Pexels. https://images.pexels.com/photos/4386326/pexels-photo-4386326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 Accessed November 2, 2024*/
+.react-calc {
+  background-image: url("../images/calc.jpg");
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+}
+/* Puzzle Pieces. Public Domain. Pexels. https://images.pexels.com/photos/9227508/pexels-photo-9227508.jpeg Accessed November 2, 2024*/
+.pastel-puzzles {
+  background-image: url("../images/puzzles.jpg");
+  height: 500px;
+  background-size: cover;
+  background-position: center;
 
-.surf-report {}
+}
+/*Screenshot of website */
+.surf-report {
+  background-image: url("../images/inventorya.jpg");
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+}
 
 /* media queries */
 

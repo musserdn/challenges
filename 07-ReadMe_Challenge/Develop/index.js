@@ -37,13 +37,13 @@ const questions = [
         type: 'list',
         message: 'Choose a license to add to your project.',
         name: 'license',
-        choices: ['None', 'Apache 2.0', 'GNU General Public v3.0', 'MIT', 'BSD 2-Clause "Simplified"', 'Boost Software 1.0', 'Creative Commons Zero v1.0', 'Eclipse Public 2.0', 'GNU Affero General Public v3.0', 'GNU General Public v2.0', 'GNU Lesser General Public v2.1', 'Mozilla Public 2.0', 'The Unlicense'],
+        choices: ['None', 'Apache_2.0', 'GPLv3', 'MIT', 'BSD_2--Clause', 'Boost_1.0', 'CC0-1.0', 'EPL_2.0', 'AGPL_v3', 'GPL_v2', 'LGPL_v2.1', 'MPL_2.0', 'Unlicense'],
         default: 'None'
     },
     {
         type: 'input',
         message: 'List your collaborators and any third party assets that require attribution.',
-        name: 'contributing',
+        name: 'credits',
     },
     {
         type: 'input',
@@ -64,16 +64,21 @@ const questions = [
 
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) { }
+function writeToFile(fileName, data) {
+
+
+
+}
 
 // TODO: Create a function to initialize app
 function init() {
     inquirer
         .prompt(questions)
-        .then(answers => {
-            console.log('Your responses have been recorded.')
-        }
-        )
+        .then((data) => {
+            const markdown = generateMarkdown(data);
+            fs.writeFileSync('README.md', markdown);
+            console.log('README.md has been generated successfully!');
+        })
 };
 
 // Function call to initialize app

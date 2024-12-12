@@ -1,7 +1,7 @@
-# This is the best title ever
+# MY title is THIS,
 
-  ## [Description](#description) 
-  please put a clear description here
+  ## Description
+  My description is THAT
 
   
 ## Table of Contents
@@ -15,22 +15,22 @@
   
 
   ## [Installation](#installation)
-  Install on your desktop using NPM
+  my instructions are GO
 
   ## [Usage](#usage)
-  place in cold water to instruct
+  my usage is a lot
 
   ## [Credits](#credits)
-  I give you all credit
+  my attribution is the world
   
   ## [License](#license)
-  This project is licensed under the BSD_2--Clause - see the [LICENSE](LICENSE) file for details.
+  This project is licensed under the Boost_1.0 - see the [LICENSE](LICENSE) file for details.
 
   ## [Badges](#badges)
-  [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
   ## [Tests](#tests)
-  Run tests on tuesday
+  my tests are going on FIRE
   
   ## [Questions](#questions)
   If you have any questions, please feel free to reach out to me at musserdn@gmail.com or visit my [GitHub Profile](http://www.google.com).

@@ -1,6 +1,6 @@
 // TODO: Include packages needed for this application
 import inquirer from 'inquirer';
-import fs from 'fs';
+import {writeFile} from 'fs/promises';
 import generateMarkdown from './utils/generateMarkdown.js';
 
 // TODO: Create an array of questions for user input
@@ -62,12 +62,9 @@ const questions = [
     }
 ];
 
-
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-
-
-
+    writeFile(fileName, data, 'utf-8');
 }
 
 // TODO: Create a function to initialize app
@@ -76,8 +73,8 @@ function init() {
         .prompt(questions)
         .then((data) => {
             const markdown = generateMarkdown(data);
-            fs.writeFileSync('README.md', markdown);
-            console.log('README.md has been generated successfully!');
+            writeToFile('README.md', markdown)
+            console.log('README.md will be generated asynchronously');
         })
 };
 

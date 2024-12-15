@@ -1,7 +1,7 @@
-# MY title is THIS,
+# README Generator
 
   ## Description
-  My description is THAT
+  JS program that uses npm inquirer to generate readme file to display on Github.
 
   
 ## Table of Contents
@@ -15,23 +15,23 @@
   
 
   ## [Installation](#installation)
-  my instructions are GO
+  Clone this repo locally and then run by node index.js in your terminal.
 
   ## [Usage](#usage)
-  my usage is a lot
+  Use this to generate a readme, push to github and then store in your root where your readme is located.
 
   ## [Credits](#credits)
-  my attribution is the world
+  This project uses [Inquirer.js](https://www.npmjs.com/package/inquirer)
   
   ## [License](#license)
-  This project is licensed under the Boost_1.0 - see the [LICENSE](LICENSE) file for details.
+  This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details.
 
   ## [Badges](#badges)
-  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## [Tests](#tests)
-  my tests are going on FIRE
+  Run index.js and validate that is outputs a README.md file
   
   ## [Questions](#questions)
-  If you have any questions, please feel free to reach out to me at musserdn@gmail.com or visit my [GitHub Profile](http://www.google.com).
+  If you have any questions, please feel free to reach out to me at musserdn@gmail.com or visit my [GitHub Profile](https://github.com/musserdn/).
 

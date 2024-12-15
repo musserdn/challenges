@@ -1,4 +1,4 @@
-# README Filter Generator
+# README File Generator
 
   ## Description
   Javascript program that uses npm inquirer to generator a readme file to display on GitHub.

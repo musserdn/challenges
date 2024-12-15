@@ -1,7 +1,7 @@
-# README File Generator
+# README Generator
 
   ## Description
-  Javascript program that uses npm inquirer to generator a readme file to display on GitHub.
+  JS program that uses npm inquirer to generate readme file to display on Github.
 
   
 ## Table of Contents
@@ -15,10 +15,10 @@
   
 
   ## [Installation](#installation)
-  Clone repo locally to your machine, open folder in integrated terminal and run node index.js
+  Clone this repo locally and then run by node index.js in your terminal.
 
   ## [Usage](#usage)
-  Use to generate or update your README as you add new features. Relace the existing README by pushing to your GitHub and copying to the root of your repo.
+  Use this to generate a readme, push to github and then store in your root where your readme is located.
 
   ## [Credits](#credits)
   This project uses [Inquirer.js](https://www.npmjs.com/package/inquirer)
@@ -30,7 +30,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## [Tests](#tests)
-  Run index.js
+  Run index.js and validate that is outputs a README.md file
   
   ## [Questions](#questions)
   If you have any questions, please feel free to reach out to me at musserdn@gmail.com or visit my [GitHub Profile](https://github.com/musserdn/).

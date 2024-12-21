@@ -18,7 +18,7 @@
   Clone this repo locally and then run by node index.js in your terminal.
 
   ## [Usage](#usage)
-  Use this to generate a readme, push to github and then store in your root where your readme is located.
+  Use this to generate a readme, push to github and then store in your root where your readme is located. View a demo of the application here: [Youtube Demo Video](https://youtu.be/cJ-1MPcsW_U).
 
   ## [Credits](#credits)
   This project uses [Inquirer.js](https://www.npmjs.com/package/inquirer)

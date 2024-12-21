@@ -72,7 +72,7 @@ function generateMarkdown(data) {
   ${data.installation}
 
   ## [Usage](#usage)
-  ${data.usage}
+  ${data.usage} View a demo of the application here: [Youtube Demo Video](https://youtu.be/cJ-1MPcsW_U).
 
   ## [Credits](#credits)
   ${data.credits}

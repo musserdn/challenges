@@ -20,7 +20,7 @@ As of this release, we've added both Truck and Motorbike as new vehicle types in
   Clone this repo locally and then run by `npm run start` in your terminal while in the project folder.
 
   ## [Usage](#usage)
-  Use this as a fun an interactive simulator with vehicles manipulation and creation. View a demo of the application here: [Youtube Demo Video](https://youtu.be/cJ-1MPcsW_U).
+  Use this as a fun an interactive simulator with vehicles manipulation and creation. View a demo of the application here: [Youtube Demo Video](https://youtu.be/8YuHUpHbzYQ).
 
   ## [Credits](#credits)
   This project uses [Inquirer.js](https://www.npmjs.com/package/inquirer) and [TypeScript](https://www.typescriptlang.org/)

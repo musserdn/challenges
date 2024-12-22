@@ -328,7 +328,7 @@ class Cli {
             'Turn right',
             'Turn left',
             'Reverse',
-            'Toe',
+            'Tow',
             'Wheelie',
             'Select or create another vehicle',
             'Exit',
@@ -395,7 +395,7 @@ class Cli {
           }
 
           // TODO: add statements to perform the tow action only if the selected vehicle is a truck. Call the findVehicleToTow method to find a vehicle to tow and pass the selected truck as an argument. After calling the findVehicleToTow method, you will need to return to avoid instantly calling the performActions method again since findVehicleToTow is asynchronous.
-        } else if (answers.action === 'Toe') {
+        } else if (answers.action === 'Tow') {
           for (let i = 0; i < this.vehicles.length; i++) {
             if (this.vehicles[i].vin === this.selectedVehicleVin && this.vehicles[i] instanceof Truck) {
               this.findVehicleToTow(this.vehicles[i] as Truck);

@@ -20,8 +20,8 @@
   Review the `README.md` and `Youtube Demo Video` for each project: 
 * [Challenge 7 - README.md Generator](https://github.com/musserdn/challenges/blob/main/07-ReadMe_Challenge/README.md) - [Youtube Demo Video](https://youtu.be/cJ-1MPcsW_U)
 * [Challenge 8 - Vehicle Builder](https://github.com/musserdn/challenges/blob/main/08-Typescript_Vehicle_Builder/README.md) - [Youtube Demo Video](https://youtu.be/8YuHUpHbzYQ)
-* [Challenge 9 - Future: Weather Dashboard](https://github.com/musserdn/challenges/blob/main/README.md) - [Youtube Demo Video](https://youtube.com/playlist?list=PLp5-kLRcKJPc3IzxO8tBtEfKaW1WGHQDz)
-* [Challenge 10 - In Development](https://github.com/musserdn/challenges/blob/main/README.md) - [Youtube Demo Video](https://youtube.com/playlist?list=PLp5-kLRcKJPc3IzxO8tBtEfKaW1WGHQDz)
+* [Challenge 9 - instantWeather: Weather Dashboard](https://github.com/musserdn/instantWeather/blob/main/README.md) - [Site on Render](https://instantweather.onrender.com/)
+* [Challenge 10 - Boss Mode: Employee Tracker](https://github.com/musserdn/BossMode/blob/main/README.md) - [Youtube Demo Video](https://youtube.com/playlist?list=PLp5-kLRcKJPc3IzxO8tBtEfKaW1WGHQDz)
 * [Challenge 11 - In Development](https://github.com/musserdn/challenges/blob/main/README.md) - [Youtube Demo Video](https://youtube.com/playlist?list=PLp5-kLRcKJPc3IzxO8tBtEfKaW1WGHQDz)
 * [Challenge 12 - In Development](https://github.com/musserdn/challenges/blob/main/README.md) - [Youtube Demo Video](https://youtube.com/playlist?list=PLp5-kLRcKJPc3IzxO8tBtEfKaW1WGHQDz)
 * [Challenge 13 - In Development](https://github.com/musserdn/challenges/blob/main/README.md) - [Youtube Demo Video](https://youtube.com/playlist?list=PLp5-kLRcKJPc3IzxO8tBtEfKaW1WGHQDz)
@@ -36,7 +36,20 @@
    ## [Credits](#credits)
   This collection of projects uses the following
   - [Inquirer.js](https://www.npmjs.com/package/inquirer)
+  - [bootstrap](https://getbootstrap.com/)
+  - [capitalize](https://www.npmjs.com/package/capitalize)
+  - [dayjs](https://www.npmjs.com/package/dayjs)
+  - [dotenv](https://www.npmjs.com/package/dotenv)
+  - [express](https://expressjs.com/)
+  - [fontawesome-free](https://www.npmjs.com/package/@fortawesome/fontawesome-free)
+  - [Inquirer.js](https://www.npmjs.com/package/inquirer)
   - [TypeScript](https://www.typescriptlang.org/)
+  - [uuid](https://www.npmjs.com/package/uuid)
+  - In Dev
+    - [concurrently](https://www.npmjs.com/package/concurrently)
+    - [nodemon](https://www.npmjs.com/package/nodemon)
+    - [vite](https://www.npmjs.com/package/vite)
+    - [wait-on](https://www.npmjs.com/package/wait-on)
   
   ## [License](#license)
   This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details.
@@ -47,7 +60,8 @@
   ## [Tests](#tests)
   Use one of the following options, depending on project: 
   - Run `node index.js` and validate that is outputs a README.md file; or
-  - Run `npm run start` and validate dist files output and program runs.
+  - Run `npm run start` and validate dist files output and program runs; or
+  - Run `npm run install` and validate installation of files with run `npm run start:dev` to start server and client.
   
   ## [Questions](#questions)
   If you have any questions, please feel free to reach out to me at [musserdn@gmail.com](mailto:musserdn@gmail.com) or visit my [GitHub Profile](https://github.com/musserdn/).

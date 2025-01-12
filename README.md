@@ -21,7 +21,7 @@
 * [Challenge 7 - README.md Generator](https://github.com/musserdn/challenges/blob/main/07-ReadMe_Challenge/README.md) - [Youtube Demo Video](https://youtu.be/cJ-1MPcsW_U)
 * [Challenge 8 - Vehicle Builder](https://github.com/musserdn/challenges/blob/main/08-Typescript_Vehicle_Builder/README.md) - [Youtube Demo Video](https://youtu.be/8YuHUpHbzYQ)
 * [Challenge 9 - instantWeather: Weather Dashboard](https://github.com/musserdn/instantWeather/blob/main/README.md) - [Site on Render](https://instantweather.onrender.com/)
-* [Challenge 10 - Boss Mode: Employee Tracker](https://github.com/musserdn/BossMode/blob/main/README.md) - [Youtube Demo Video](https://youtube.com/playlist?list=PLp5-kLRcKJPc3IzxO8tBtEfKaW1WGHQDz)
+* [Challenge 10 - Boss Mode: Employee Tracker](https://github.com/musserdn/BossMode/blob/main/README.md) - [Youtube Demo Video](https://youtu.be/EhOgCX7KMCk)
 * [Challenge 11 - In Development](https://github.com/musserdn/challenges/blob/main/README.md) - [Youtube Demo Video](https://youtube.com/playlist?list=PLp5-kLRcKJPc3IzxO8tBtEfKaW1WGHQDz)
 * [Challenge 12 - In Development](https://github.com/musserdn/challenges/blob/main/README.md) - [Youtube Demo Video](https://youtube.com/playlist?list=PLp5-kLRcKJPc3IzxO8tBtEfKaW1WGHQDz)
 * [Challenge 13 - In Development](https://github.com/musserdn/challenges/blob/main/README.md) - [Youtube Demo Video](https://youtube.com/playlist?list=PLp5-kLRcKJPc3IzxO8tBtEfKaW1WGHQDz)
